@@ -2,7 +2,7 @@
 - 👀 I’m interested in infectious diseases, surveillance and One Health.
 - 🌱 I’m currently learning mechanistic modelling and spatial modelling.
 - 🚧 My github is now in improvement progress.
-<p align="center"><img src="https://user-images.githubusercontent.com/85563905/121202612-6341fb80-c8b0-11eb-9c2e-80ca3fc78a6d.png", height="512", width ="693"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/85563905/121202612-6341fb80-c8b0-11eb-9c2e-80ca3fc78a6d.png">
 </p>
 
 
