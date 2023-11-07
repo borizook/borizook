@@ -1,13 +1,12 @@
 <img align="right" width="543" src="https://user-images.githubusercontent.com/85563905/121202612-6341fb80-c8b0-11eb-9c2e-80ca3fc78a6d.png">
 
-- 👋 Hi, I’m Jun-Sik.
+- 👋 Hey there! I'm Jun-Sik.
 
-- 👀 I’m interested in infectious diseases, surveillance and One Health.
+- 🔬 Infectious diseases, surveillance, and One Health are my jam! 🌍
 
-- 🌱 I’m currently working for African swine fever in wild boar population, using mechanistic modelling and spatial modelling.
+- 🌱 Currently delving into the world of African swine fever in wild boar populations, armed with mechanistic and spatial modeling.
 
-- 🚧 My github is now in improvement progress.
-
+- 🚧 Hang tight, my GitHub is undergoing a glow-up. Exciting things in the pipeline!
     
 <!---
 borizook/borizook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
