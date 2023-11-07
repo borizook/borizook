@@ -6,6 +6,8 @@
 
 - 🌱 Currently delving into the world of African swine fever in wild boar populations, armed with mechanistic and spatial modeling.
 
+- 🚀 Additionally, I aspire to extend my expertise into the realms of phylodynamics and causal inference.
+
 - 🚧 Hang tight, my GitHub is undergoing a glow-up. Exciting things in the pipeline!
     
 <!---
