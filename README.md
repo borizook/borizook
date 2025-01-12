@@ -1,5 +1,3 @@
-<img align="right" width="543" src="https://user-images.githubusercontent.com/85563905/121202612-6341fb80-c8b0-11eb-9c2e-80ca3fc78a6d.png">
-
 👋 Hi there! I'm Jun-Sik.
 
 🔬 Epidemiologist passionate about infectious diseases, surveillance, and One Health approaches.
