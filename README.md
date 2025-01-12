@@ -4,7 +4,7 @@
 
 🌱 Current Focus
 
-Improving public healh by explornig the dynamics of zoonotic infectious diseases both in human and wildlife populations
+Improving Public Health by explornig the dynamics of zoonotic infectious diseases both in human and wildlife populations
 
 Utilizing spatial modeling and mechanistic approaches to inform disease surveillance and control strategies.
 
